@@ -1,15 +1,19 @@
 ### 👋 Hello! 
 
-#### I'm a high school student!
+#### I'm a high school student
 
 ##### NOW
 
-- Learning python and C++ and JavaScript through personal projects!
+- Exploring Python and C++ through personal projects!
+
+##### FUTURE
+
+- Want to learn `.ts` and `.go` 
 
 ##### More Info
 
-- I'm familiar with: `python`, `C++` - but still need to learn more! 
-- **Machine Learning** and **Artificial Intelligence** Aspirant
+- I'm familiar with: `.py`, `.cpp` - but still need to learn more! 
+- Interested in **Machine Learning** and **Artificial Intelligence** 
 - Feel free to contact me at: [amoghatwe@gmail.com](mailto:amoghatwe@gmail.com)
 
 <!---
